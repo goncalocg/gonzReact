@@ -1,2 +1,0 @@
-# gonzReact
-Created with CodeSandbox
